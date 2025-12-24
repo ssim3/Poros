@@ -1,5 +1,5 @@
 
-![[Pasted image 20251224231006.png]]
+![NoBullshitGuide|400](https://m.media-amazon.com/images/I/71HyY+CifdL._AC_UF1000,1000_QL80_.jpg)
 
 **Author**: Ivan Savov
 

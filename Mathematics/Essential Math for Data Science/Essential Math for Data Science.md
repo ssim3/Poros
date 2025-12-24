@@ -1,4 +1,4 @@
-![[Pasted image 20251224231107.png]]
+![EssentialMath|400](https://m.media-amazon.com/images/I/81RiDmmmEBL.jpg)
 
 **Author:** Thomas Nield
 
