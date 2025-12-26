@@ -1,3 +1,0 @@
-
-- Start from half guard
-- 
