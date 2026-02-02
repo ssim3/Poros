@@ -1,0 +1,4 @@
+- Vertical translation: g(x) = f(x) + k
+- Horizontal translations: g(x) = f(x - h)
+- Vertical scaling: g(x) = Af(x)
+- Horizontal Scaling: g(x) = f(ax)
