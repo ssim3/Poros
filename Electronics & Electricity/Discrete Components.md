@@ -24,6 +24,7 @@ The resistor in the image above has a resistance of 4700$\ohm$ or 4.7k$\ohm$, wi
 2nd band (ones digit) : PURPLE (7)
 3rd band (multiplier) : RED (100)
 4th band (tolerance) : SILVER (10%)
+
 #### 5 Colored Band Resistors:
 
 ![[Pasted image 20260603205548.png]]
