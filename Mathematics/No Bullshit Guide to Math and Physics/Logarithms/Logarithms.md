@@ -46,3 +46,17 @@ To change the base of a logarithm from one base $B$ to base $b$:
 $$
 \log_B(x) = \frac{log_b(x)}{\log_b(B)}
 $$
+
+### Exercise:
+
+Use the properties of logarithms to simplify the expressions
+ 
+a) $\log(x) + \log(2y)$ 
+
+Answer: $\log(2xy)$
+
+b) $\log(x) + \log(\frac{y}{x})$ 
+
+By applying the quotient rule,
+$\log(x) + \log(y) - \log(x) = \log(y)$
+
