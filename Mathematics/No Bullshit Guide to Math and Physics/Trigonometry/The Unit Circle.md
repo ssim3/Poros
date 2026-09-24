@@ -29,3 +29,20 @@ Fourth quadrant: Positive x-coordinate (cos), Negative y-coordinate (sin)
 
 For circles with radius $\neq$ 1, the coordinates of point $P$ are x: $r\cos\theta$ and y: $r\sin\theta$ .
 
+### Exercises
+
+E1.27 Given a circle with radius r “ 5, find the x- and y-coordinates
+of the point at θ “ 45˝. What is the circumference of the circle?
+
+$P(x, y)$ = $P(r\cos\theta, r\sin\theta)$ = $P(5\cos\frac{\pi}{4}, r\sin\frac{\pi}{4})$ = $P(\frac{5\sqrt2}{2}, \frac{5\sqrt2}{2})$
+
+Circumference of circle = $\pi{d}$ = $10\pi$
+
+E1.28 Convert the following angles from degrees to radians.
+a) 30˝ b) 45˝ c) 60˝ d) 270˝
+
+a) pi / 6
+b) pi / 4
+c) pi / 3
+d) 270 * 2pi / 360 = 3/2 pi
+
